@@ -12,7 +12,7 @@ class Mobile{
 	public static void show1(Mobile obj)
 	{
 //		System.out.println("in static method");
-		System.out.println(obj.brand+" : "+ obj.price +" : "+obj.name);
+		System.out.println(obj.brand+" : "+ obj.price +" : "+Mobile.name);
 	}
 }
 
