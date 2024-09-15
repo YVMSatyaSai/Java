@@ -23,3 +23,10 @@ int num[]=new int[4];
 - Searching takes time.
 - Array can store values of only same type. It can store homogeneous type value only.
 
+- this keyword call's constructor of same class.
+this();
+-- super keyword call's constructor of parent class. by default it will present in all constructors.
+super();
+
+
+
